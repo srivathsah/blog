@@ -66,7 +66,7 @@ const Header = () => (
               backgroundColor: '#0057e7'
             }}
           />
-          Harish.DEV
+          My blog
         </h1>
       </Link>
       <ul className="nav social">
